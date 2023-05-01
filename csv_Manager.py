@@ -102,26 +102,3 @@ def delete_data(id, file_path):
  
 print("import csvManager!")
 
-# file_path = "csv_anime_list/test_anime_list.txt"
-# id = "4"
-# title ="くまクマ熊ベアーぱーんち！"
-# week ="Tuesday"
-# time = "null"
-# site = "null"
-# memo =  "null"
-# url =   "null"
-
-# add_data(file_path,title,week,time,"evaluation",site,memo,url)
-# print("finish")
-
-# Updata_data(file_path,id,title,week,time,"evaluation",site,memo,url)
-
-# anime_list = load_data_from_csv(file_path)
-
-# for task in anime_list:
-#      print(task.id)
-
-# tsts=anime_list[4]
-
-
-# delete_data(tsts,file_path)
